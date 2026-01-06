@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.users.dtos;
+package explainIt.example.demo.users.dtos;
 
 import jakarta.validation.constraints.Size;
 import lombok.Data;
@@ -15,3 +15,4 @@ public class UserUpdateDto {
     // Users can't update email directly (requires verification)
     // Users can't update password here (separate endpoint)
 }
+

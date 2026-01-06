@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.plans.model;
+package explainIt.example.demo.plans.model;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -30,3 +30,4 @@ public class Plan {
     @Column(name = "max_requests_per_month")
     private Integer maxRequestsPerMonth;
 }
+

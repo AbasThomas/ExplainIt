@@ -1,6 +1,6 @@
-package ExplainIt.example.demo.plans.repository;
+package explainIt.example.demo.plans.repository;
 
-import ExplainIt.example.demo.plans.model.Plan;
+import explainIt.example.demo.plans.model.Plan;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

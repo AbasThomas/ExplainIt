@@ -1,6 +1,6 @@
-package ExplainIt.example.demo.users.repositories;
+package explainIt.example.demo.users.repositories;
 
-import ExplainIt.example.demo.users.model.User;
+import explainIt.example.demo.users.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

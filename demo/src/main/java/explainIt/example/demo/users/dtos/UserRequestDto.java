@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.users.dtos;
+package explainIt.example.demo.users.dtos;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
@@ -24,3 +24,4 @@ public class UserRequestDto {
     @Size(min = 8, message = "Password must be at least 8 characters")
     private String password;
 }
+

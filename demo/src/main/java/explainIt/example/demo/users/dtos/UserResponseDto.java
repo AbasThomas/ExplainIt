@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.users.dtos;
+package explainIt.example.demo.users.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

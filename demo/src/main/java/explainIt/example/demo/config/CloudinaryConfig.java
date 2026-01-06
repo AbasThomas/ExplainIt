@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.config;
+package explainIt.example.demo.config;
 
 import com.cloudinary.Cloudinary;
 import io.github.cdimascio.dotenv.Dotenv;
@@ -14,4 +14,5 @@ public class CloudinaryConfig {
         return new Cloudinary(dotenv.get("CLOUDINARY_URL"));
     }
 }
+
 

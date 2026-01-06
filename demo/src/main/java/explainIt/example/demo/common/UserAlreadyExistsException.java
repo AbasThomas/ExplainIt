@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.common;
+package explainIt.example.demo.common;
 
 public class UserAlreadyExistsException extends RuntimeException {
     public UserAlreadyExistsException(String message) {

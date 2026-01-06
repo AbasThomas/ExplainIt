@@ -1,4 +1,4 @@
-package ExplainIt.example.demo.common;
+package explainIt.example.demo.common;
 
 import lombok.Builder;
 import lombok.Data;
@@ -14,3 +14,4 @@ public class ErrorResponse {
     private String message;
     private Map<String, String> errors;
 }
+

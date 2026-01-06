@@ -1,6 +1,6 @@
-package ExplainIt.example.demo.users.model;
+package explainIt.example.demo.users.model;
 
-import ExplainIt.example.demo.plans.model.Plan;
+import explainIt.example.demo.plans.model.Plan;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

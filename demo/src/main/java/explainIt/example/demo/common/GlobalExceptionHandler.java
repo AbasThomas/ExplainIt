@@ -1,7 +1,7 @@
-package ExplainIt.example.demo.common;
+package explainIt.example.demo.common;
 
-import ExplainIt.example.demo.common.ResourceNotFoundException;
-import ExplainIt.example.demo.common.UserAlreadyExistsException;
+import explainIt.example.demo.common.ResourceNotFoundException;
+import explainIt.example.demo.common.UserAlreadyExistsException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

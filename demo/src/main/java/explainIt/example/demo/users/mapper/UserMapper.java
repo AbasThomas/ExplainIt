@@ -1,9 +1,9 @@
-package ExplainIt.example.demo.users.mapper;
+package explainIt.example.demo.users.mapper;
 
-import ExplainIt.example.demo.users.dtos.UserRequestDto;
-import ExplainIt.example.demo.users.dtos.UserResponseDto;
-import ExplainIt.example.demo.users.dtos.UserUpdateDto;
-import ExplainIt.example.demo.users.model.User;
+import explainIt.example.demo.users.dtos.UserRequestDto;
+import explainIt.example.demo.users.dtos.UserResponseDto;
+import explainIt.example.demo.users.dtos.UserUpdateDto;
+import explainIt.example.demo.users.model.User;
 import org.mapstruct.*;
 
 @Mapper(componentModel = "spring")
